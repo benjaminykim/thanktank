@@ -1,4 +1,4 @@
-# swim
+# ThankTank
 
 A new Flutter project.
 
